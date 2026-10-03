@@ -1,0 +1,6 @@
+{
+  "name": "Backup as a Service — Operations Dashboard",
+  "description": "Live simulation of a Backup as a Service dashboard: daily backup success rates, backup storage disk and tape utilization, node occupancy growth and environment overview.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
